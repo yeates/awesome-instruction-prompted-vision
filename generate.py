@@ -10,7 +10,7 @@ COLLECTION_CSV = os.path.join(DIR_ROOT, 'awesome-list.csv')
 MD_FILE= os.path.join(DIR_ROOT, 'README.md')
 
 HEAD = f"""# Awesome-Instruction-Prompted-Vision
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyeates%2Fawesome-instruction-prompted-vision&label=VISITOR&countColor=%23dce775&style=flat)
 
 A curated list of instruction-prompted visual translation papers and resources, inspired by [awesome-image-inpainting](https://github.com/zengyh1900/Awesome-Image-Inpainting).
 
