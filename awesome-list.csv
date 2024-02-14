@@ -3,19 +3,24 @@
 2023,ICCV,3D,Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions,https://arxiv.org/pdf/2303.12789.pdf,https://github.com/ayaanzhaque/instruct-nerf2nerf,https://instruct-nerf2nerf.github.io/,UC Berkeley
 2023,arXiv,Image,MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing,https://arxiv.org/pdf/2306.10012.pdf,https://github.com/OSU-NLP-Group/MagicBrush,https://osu-nlp-group.github.io/MagicBrush/,OSU
 2023,arXiv,Multiple,Watch Your Steps: Local Image and Scene Editing by Text Instructions,https://arxiv.org/pdf/2308.08947.pdf,,https://ashmrz.github.io/WatchYourSteps/,Samsung AI
-2023,arXiv,Image,InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists,https://arxiv.org/pdf/2310.00390.pdf,https://github.com/AlaaLab/InstructCV,,
+2023,ICLR,Image,InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists,https://arxiv.org/pdf/2310.00390.pdf,https://github.com/AlaaLab/InstructCV,,
 2023,arXiv,Video,Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions,https://arxiv.org/pdf/2306.02903.pdf,https://github.com/lsx0101/Instruct-Video2Avatar,,
 2023,arXiv,Video,InstructVid2Vid: Controllable Video Editing with Natural Language Instructions,https://arxiv.org/pdf/2305.12328.pdf,,,ZJU
 2023,arXiv,3D,InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions,https://arxiv.org/pdf/2306.07154.pdf,,,
-2023,arXiv,Image,InstructDiffusion: A Generalist Modeling Interface for Vision Tasks,https://arxiv.org/pdf/2309.03895.pdf,https://github.com/cientgu/InstructDiffusion,,MSR Asia
+2023,arXiv,Image,InstructDiffusion: A Generalist Modeling Interface for Vision Tasks,https://arxiv.org/pdf/2309.03895.pdf,https://github.com/cientgu/InstructDiffusion,https://gengzigang.github.io/instructdiffusion.github.io/,MSR Asia
 2023,arXiv,Image,Visual Instruction Inversion: Image Editing via Visual Prompting,https://arxiv.org/pdf/2307.14331.pdf,https://github.com/thaoshibe/visii,https://thaoshibe.github.io/visii/,UW-Madison
-2023,arXiv,3D,InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image,https://arxiv.org/pdf/2311.02826.pdf,https://github.com/mybabyyh/InstructPix2NeRF,,THU
+2023,ICLR,3D,InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image,https://arxiv.org/pdf/2311.02826.pdf,https://github.com/mybabyyh/InstructPix2NeRF,,THU
 2023,arXiv,3D,Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion,https://arxiv.org/pdf/2303.15780.pdf,,https://sony.github.io/Instruct3Dto3D-doc,Sony
 2023,arXiv,Image,ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation,https://arxiv.org/pdf/2308.00906.pdf,,,Microsoft
 2023,arXiv,3D,InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields,https://arxiv.org/pdf/2305.15094.pdf,,,EPFL
 2023,arXiv,Image,Inst-Inpaint: Instructing to Remove Objects with Diffusion Models,https://arxiv.org/pdf/2304.03246.pdf,https://github.com/abyildirim/inst-inpaint,http://instinpaint.abyildirim.com/,Bilkent University
 2023,arXiv,Image,Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation,https://arxiv.org/pdf/2310.08541.pdf,,https://idea2img.github.io/,Microsoft
 2023,arXiv,Image,HIVE: Harnessing Human Feedback for Instructional Visual Editing,https://arxiv.org/pdf/2303.09618.pdf,,https://shugerdou.github.io/hive/,Salesforce AI
-2023,arXiv,Image,Guiding Instruction-based Image Editing via Multimodal Large Language Models,https://arxiv.org/pdf/2309.17102.pdf,,https://mllm-ie.github.io/,UC Santa Barbara
+2023,ICLR,Image,Guiding Instruction-based Image Editing via Multimodal Large Language Models,https://arxiv.org/pdf/2309.17102.pdf,https://github.com/apple/ml-mgie,https://mllm-ie.github.io/,Apple
 2023,arXiv,Video,VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models,https://arxiv.org/pdf/2311.18837.pdf,https://github.com/ChenHsing/VIDiff,https://chenhsing.github.io/VIDiff/,FDU
 2023,arXiv,Image,InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation,https://arxiv.org/pdf/2311.18835.pdf,https://github.com/rongyaofang/InstructSeq,,
+2023,arXiv,Video,BIVDiff: A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models,https://arxiv.org/pdf/2312.02813.pdf,https://bivdiff.github.io/,,
+2023,arXiv,Video,Consistent Video-to-Video Transfer Using Synthetic Dataset,https://arxiv.org/pdf/2311.00213.pdf,https://cplusx.github.io/InsV2V_project_page,https://github.com/amazon-science/instruct-video-to-video/tree/main,
+2023,arXiv,Image,Emu Edit: Precise Image Editing via Recognition and Generation Tasks,https://arxiv.org/pdf/2311.10089.pdf,,https://emu-edit.metademolab.com/,Meta
+2024,arXiv,3D,TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts,https://arxiv.org/pdf/2401.14828.pdf,,,Tencent
+2024,arXiv,Image,High-Quality Image Restoration Following Human Instructions,https://arxiv.org/pdf/2401.16468.pdf,https://github.com/mv-lab/InstructIR,,Sony

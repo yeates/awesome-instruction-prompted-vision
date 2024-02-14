@@ -55,7 +55,10 @@ def csv_to_readme():
     for idx, row in enumerate(csv_reader):
         if idx == 0:
             continue 
-        year, conf, type, title, url, code, project, _ = row 
+        try:
+            year, conf, type, title, url, code, project, _ = row 
+        except:
+            print(row)
         p = dict(title=title, url=url, conf=conf, year=year, project=project, code=code, type=type)
         if str(type) not in papers: 
             papers[str(type)] = [p]
