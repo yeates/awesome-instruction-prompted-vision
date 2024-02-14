@@ -20,7 +20,7 @@
 2023,arXiv,Video,VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models,https://arxiv.org/pdf/2311.18837.pdf,https://github.com/ChenHsing/VIDiff,https://chenhsing.github.io/VIDiff/,FDU
 2023,arXiv,Image,InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation,https://arxiv.org/pdf/2311.18835.pdf,https://github.com/rongyaofang/InstructSeq,,
 2023,arXiv,Video,BIVDiff: A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models,https://arxiv.org/pdf/2312.02813.pdf,,https://bivdiff.github.io/,
-2023,ICLR,Video,Consistent Video-to-Video Transfer Using Synthetic Dataset,https://arxiv.org/pdf/2311.00213.pdf,https://github.com/amazon-science/instruct-video-to-video/tree/main,https://cplusx.github.io/InsV2V_project_page,
+2023,ICLR,Video,Consistent Video-to-Video Transfer Using Synthetic Dataset,https://arxiv.org/pdf/2311.00213.pdf,https://github.com/amazon-science/instruct-video-to-video,https://cplusx.github.io/InsV2V_project_page,
 2023,arXiv,Image,Emu Edit: Precise Image Editing via Recognition and Generation Tasks,https://arxiv.org/pdf/2311.10089.pdf,,https://emu-edit.metademolab.com/,Meta
 2024,arXiv,3D,TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts,https://arxiv.org/pdf/2401.14828.pdf,,,Tencent
 2024,arXiv,Image,High-Quality Image Restoration Following Human Instructions,https://arxiv.org/pdf/2401.16468.pdf,https://github.com/mv-lab/InstructIR,,Sony
